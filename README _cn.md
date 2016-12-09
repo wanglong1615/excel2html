@@ -23,5 +23,6 @@ Please note, that this method works correctly only for workbooks with the defaul
 			fis.close();
   	} 
   
-
+   html文件默认输出在c:/Temp目录.
+   
 扩展:支持input textarea date checkbox calc控件,并且可以对数据持久化.
