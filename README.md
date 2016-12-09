@@ -6,9 +6,9 @@ convert excel to html.
 
 Part of the code reference person code.
 
-  //main test1
-	public static void main(String[] args) throws Exception{
-    //one convert
+ 	//main test1
+  	public static void main(String[] args) throws Exception{
+  
 		File file = new File("C:/Temp/1.xls");
 		ConvertConfig config = new ConvertConfig();
 		config.setHtmlPrint(new FilePrint("test"));
@@ -18,5 +18,5 @@ Part of the code reference person code.
 		FileInputStream fis = new FileInputStream(file);
 		excel2Html.conver(fis, 0);
 		fis.close();
-   } 
+  	 } 
   
