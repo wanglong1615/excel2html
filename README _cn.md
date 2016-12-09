@@ -23,3 +23,5 @@ Please note, that this method works correctly only for workbooks with the defaul
 			fis.close();
   	} 
   
+
+扩展:支持input textarea date checkbox calc控件,并且可以对数据持久化.
