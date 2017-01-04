@@ -1,12 +1,7 @@
 # excel2html
+将Excel转为html,部分代码来源于网络
 
-zoro,welcome to Open Source World!
-
-convert excel to html.
-
-Part of the code reference person code.
-
- 	  //main test1
+ 	//main test
   	public static void main(String[] args) throws Exception{
 			File file = new File("C:/Temp/1.xls");
 			ConvertConfig config = new ConvertConfig();
