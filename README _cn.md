@@ -1,6 +1,5 @@
 # excel2html
 
-zoro,欢迎来到开源世界!
 
 Excel2Html顾名思义将Excel转换为html.(注意:部分代码参照于别人.)
 目前仅支持Excel2003格式.
