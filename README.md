@@ -1,6 +1,5 @@
 # excel2html
-将Excel转为html,部分代码来源于网络
-
+将Excel转为html,部分代码来源于第三方。
  	//main test
   	public static void main(String[] args) throws Exception{
 			File file = new File("C:/Temp/1.xls");
