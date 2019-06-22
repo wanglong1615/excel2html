@@ -62,7 +62,7 @@ public class ConvertConfig {
 	private String htmlJsVsersion = new SimpleDateFormat("yyyy-MM-dd").format(new Date());
 	
 	//prefix path
-	private String prefixPath = "http://dsframe.10333.com";
+	private String prefixPath = "http://163.com";
 	
 	//excel最大行数
 	private int maxRowNum = 300;
